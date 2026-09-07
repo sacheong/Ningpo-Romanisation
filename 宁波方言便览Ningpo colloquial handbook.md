@@ -94,7 +94,7 @@
 | p4-22 | 備好兌弗 | Are you prepared? | Be-hao-de feh? |     |
 | p5-1 | 偷怕俉要去好去 | If you want to go, go. | Tʽeo pʽông iao kyʽi, hao kyʽi. |     |
 | p5-2 | 葛是𠍽個東西做的個 | What is this made of? | Keh z soh-go tong-si tso tih go? |     |
-| p5-3 | 來，阿拉好大家戲戲 | Come, Let us play. | Læ, ah-lah hao dô kô hyi-hyi. | 「hyi-hyi」的原文為「si-si」，應為錯誤讀音。 |
+| p5-3 | 來，阿拉好大家戲戲 | Come, Let us play. | Læ, ah-lah hao dô kô hyi-hyi. | 原文「戲戲」讀音誤做為「si-si」，已更正為「hyi-hyi」。 |
 | p5-4 | 我眼鏡弗見兌 | I have lost my spectacles. | Ngô ngæn-kying feh kyin de. |     |
 | p5-5 | 我一個銅錢都嘸𠺶 | I have not a single cash. | Ngô ih-go dong-din tu m-neh. |     |
 | p5-6 | 關窗門 | Shut the windows. | Kwæn tsʽông-meng. |     |
