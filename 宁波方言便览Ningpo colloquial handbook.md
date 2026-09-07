@@ -382,3 +382,146 @@ Gyi dza wô?
 Do not stay long.
 M-nao dziang-tsiu teng kæn.
 
+嘸惱響
+Do not make a noise.
+M-nao hyiang.
+
+葛個還弗彀
+That is not quite enough.
+Keh-go wa feh-keo.
+
+俉阿裹去
+Where are you going?
+Ng ah-li ky'i?
+
+俉鞋來阿裏
+Where are your shoes?
+Ng 'a læ ah-li?
+
+俉手好去漒漒其
+Wash your hands.
+Ng siu hao ky'i gyiang-gyiang gyi.
+
+嘸惱懶惰
+Do not be lazy.
+M-nao læn-do.
+
+其弗肯來
+He will not come.
+Gyi feh k'eng læ.
+
+吃飯去
+Go and eat your rice. 
+Ky'üoh-væn ky'i.
+
+飯吃過嗎
+Have you eaten your rice?
+Væn ky'üoh ko ma?
+
+嘸惱吵我
+Do not trouble me.
+M-nao ts'ao ngô.
+
+葛個撥我兌
+Give this to me.
+Keh go peh ngô de.
+
+好再去試試看
+Go and try again.
+Hao tsæ ky'i s-s k'en.
+
+好去幫襯其
+Go and help him.
+Hao ky'i pông-tseng gyi.
+
+甮怕
+Don't be afraid.
+Vong p'ô.
+
+其到上海去兑
+He has gone to Shanghai.
+Gyi tao Zông-hæ ky'i de.
+
+其阿爹來舟山屯間
+His father lives at Chusan.
+Gyi ah-tia læ T'siu-sæn deng-kæn.
+
+其有兩匹馬
+He keeps two horses.
+Gyi yiu liang-p'ih mô.
+
+塘頭按東。
+Put it down here.
+Dông-deo en tong.
+
+葛好按來阿裏塢埣
+Where shall I put this?
+Keh hao en læ ah li u-sen?
+
+俉寨會是介做
+What did you do that for?
+Ng dza-we z-ka tso?
+
+做好小人
+Be a good boy.
+Tso hao-hao siao-nying.
+
+葛是吃弗得個
+These are not good to eat.
+Keh z ky'üoh-feh-teh go.
+
+俉從阿裏介來
+Where did you come from?
+Ng dzong ah-li ka læ?
+
+有得好有得孬
+Some are good and some are bad.
+Yiu teh hao, yiu teh w'a.
+
+塘頭有多少蛋
+How many eggs are there here?
+Dông-deo yiu to-siao dæn?
+
+俉𠍽個事幹打其
+What did you strike him for?
+Ng soh-go z-ken tang gyi?
+
+昨日夜頭雨落拉寨大
+It rained hard last night.
+Zô nyih yia-deo yü lôh leh dza do.
+
+葛個生活難做個
+This is hard work.
+Keh-go sang-weh næn tso-go.
+
+先生，我葛個好拕弗
+May I take this, Sir?
+Sin-sang, ngô keh go hao do feh?
+
+葛根凳好搭拉樓下去
+Carry that bench down stairs.
+Keh keng teng hao teh-leh leo 'ô kyi.
+
+葛兩個相貌相像
+These two look alike.
+Keh liang-go siang-mao siang ziang.
+
+我聽弗出
+I can't understand.
+Ngô t'ing-feh-c'ih.
+
+葛個牛乳一半是水
+That milk is half water.
+Keh-go ngeo-na ih-pun z shü.
+
+俉自好做個
+Do it yourself.
+Ng-zi hao tso-go.
+
+葛個水嘸惱倒掉
+Don't throw away that water.
+Keh-go shü m-nao tao-diao.
+
+穿鞋
+Put on your shoes.
+C'ün 'a.
