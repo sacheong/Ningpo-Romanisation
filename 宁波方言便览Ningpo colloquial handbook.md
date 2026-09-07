@@ -241,7 +241,7 @@
 | p11-18 | 阿拉介做是弗 | Is it right for us to do so? | Ah-lah ka tso z feh? |     |
 | p11-19 | 俉要我啥幹 | What do you want with me? | Ng iao ngô soh-ken? |     |
 | p11-20 | 葛弗是眞個 | That is not true. | Keh feh-z tsing-go. |     |
-| p11-21 | 先生俉嗃我弗 | Did you call me, Sir? | Sin-sang, ng eo ngô feh? |     |
+| p11-21 | 先生俉嘔我弗 | Did you call me, Sir? | Sin-sang, ng eo ngô feh? |     |
 | p11-22 | 葛是啥個聲響 | What noise is that? | Keh-z soh-go sing-hyiang. |     |
 | p12-1 | 個個人曉得個 | Everybody knows it. | Ko-ko nying hyiao-teh go. |     |
 | p12-2 | 葛弗照寨明白 | It is as plain as can be. | Keh feh-tsiao dza ming-bah. |     |
