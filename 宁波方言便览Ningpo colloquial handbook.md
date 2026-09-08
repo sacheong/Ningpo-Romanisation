@@ -1,8 +1,10 @@
-## 説明：
+## 介紹與説明：
 
-1.  本文檔原則上不改變原文獻的内容和用字，僅在出現明顯錯誤如印刷錯誤、增字缺字、字音錯誤，或是存在字庫不支持的生僻字的情況下進行改動，具體情況見備注。
-2.  原文獻中表示送氣或者濁喉擦音的符號為[粗氣符](https://zh.wikipedia.org/wiki/%E7%B2%97%E6%B0%94%E7%AC%A6)「ʽ」，本文檔未作更改。
-3.  左欄編號為本文檔新增，旨在快速定位例句在原文獻中的位置。如p13-18即爲原文獻第13頁的第18句。
+1.  本文檔原則上不改變原文獻的内容和用字，僅在出現明顯錯誤如印刷錯誤、增字缺字，或是存在字庫不支持的生僻字的情況下進行改動，具體情況見備注。
+2.  對於明顯的錯誤讀音（如尖團、平翹混淆），本文檔不進行更改糾正，但會在備注欄中標注。
+3.  原文獻中對邊鼻音聲母和半元音聲母的陰陽調未做嚴格區分，僅少數情況使用陰調符號（m̆, n̆, w̆），本文檔未作更改修正。
+4.  原文獻中表示送氣或者濁喉擦音的符號為[粗氣符](https://zh.wikipedia.org/wiki/%E7%B2%97%E6%B0%94%E7%AC%A6)「ʽ」，本文檔未作更改。
+5.  左欄編號為本文檔新增，旨在快速定位例句在原文獻中的位置。如p13-18即爲原文獻第13頁的第18句。
 
 ## **第一部分: Colloquial Phrases**
 
@@ -94,7 +96,7 @@
 | p4-22 | 備好兌弗 | Are you prepared? | Be-hao-de feh? |     |
 | p5-1 | 偷怕俉要去好去 | If you want to go, go. | Tʽeo pʽông iao kyʽi, hao kyʽi. |     |
 | p5-2 | 葛是𠍽個東西做的個 | What is this made of? | Keh z soh-go tong-si tso tih go? |     |
-| p5-3 | 來，阿拉好大家戲戲 | Come, Let us play. | Læ, ah-lah hao dô kô hyi-hyi. | 原文「戲戲」讀音誤做為「si-si」，已更正為「hyi-hyi」。 |
+| p5-3 | 來，阿拉好大家戲戲 | Come, Let us play. | Læ, ah-lah hao dô kô si-si. | 「si-si」為「戲戲」的錯誤讀音，正確讀音應爲「hyi-hyi」。 |
 | p5-4 | 我眼鏡弗見兌 | I have lost my spectacles. | Ngô ngæn-kying feh kyin de. |     |
 | p5-5 | 我一個銅錢都嘸𠺶 | I have not a single cash. | Ngô ih-go dong-din tu m-neh. |     |
 | p5-6 | 關窗門 | Shut the windows. | Kwæn tsʽông-meng. |     |
@@ -119,7 +121,7 @@
 | p6-3 | 好去幫襯其 | Go and help him. | Hao kyʽi pông-tseng gyi. |     |
 | p6-4 | 甮怕  | Don't be afraid. | Vong pʽô. | 「甮」原文用字為「⿱勿逢」。字庫不支持故改爲更通用的「甮」。 |
 | p6-5 | 其到上海去兑 | He has gone to Shanghai. | Gyi tao Zông-hæ kyʽi de. |     |
-| p6-6 | 其阿爹來舟山屯間 | His father lives at Chusan. | Gyi ah-tia læ Tʽsiu-sæn deng-kæn. |     |
+| p6-6 | 其阿爹來舟山屯間 | His father lives at Chusan. | Gyi ah-tia læ Tsiu-sæn deng-kæn. |     |
 | p6-7 | 其有兩匹馬 | He keeps two horses. | Gyi yiu liang-pʽih mô. |     |
 | p6-8 | 塘頭按東。 | Put it down here. | Dông-deo en tong. |     |
 | p6-9 | 葛好按來阿裏塢埣 | Where shall I put this? | Keh hao en læ ah li u-sen? |     |
@@ -177,7 +179,7 @@
 | p8-17 | 葛一個頂孬 | That is the worst of all. | Keh ih-go ting wa. |     |
 | p8-18 | 葛是嘸數 | That is uncertain. | Keh-z m-su. |     |
 | p8-19 | 别個時候好來 | Come some other time. | Bih-go z-ʽeo hao læ. |     |
-| p8-20 | 俉𠍽幹笑 | Why are you laughing? | Ng soh ken siao? | 原文「笑」讀音誤做為「hyiao」，已更正為「siao」。 |
+| p8-20 | 俉𠍽幹笑 | Why are you laughing? | Ng soh ken hyiao? | 「hyiao」為「笑」的錯誤讀音，正確讀音應爲「siao」。 |
 | p8-21 | 門鎖拉其 | Lock the doors. | Meng so-leh gyi. |     |
 | p8-22 | 葛個小人好抱進去 | Carry this child in. | Keh-go siao-nying hao bao-tsing kyʽi. |     |
 | p9-1 | 單只有限剩落東 | There are but few left. | Tæn-tsih yiu-ʽæn dzing-lôh-tong. |     |
@@ -213,7 +215,7 @@
 | p10-9 | 我個石板俉看見過弗 | Have you seen my slate? | Ngô go zah pæn ng kʽen-kyin-ko feh? |     |
 | p10-10 | 其特意做個 | He did it on purpose. | Gyi deh-i tso-go. |     |
 | p10-11 | 其做啥個生意 | What is his business? | Gyi tso soh-go sang-i? |     |
-| p10-12 | 現在還是漲潮還是落潮 | Is it high water or low. | Yin-dzæ wa-z tsiang-dziao, wa z lôh-dziao. | 原文「潮」讀音誤做為「gyiao」，已更正為「dziao」。 |
+| p10-12 | 現在還是漲潮還是落潮 | Is it high water or low. | Yin-dzæ wa-z tsiang-gyiao, wa z lôh-gyiao. | 「gyiao」為「潮」的錯誤讀音，正確讀音應爲「dziao」。 |
 | p10-13 | 兩加五有多少 | Two and five make how many? | Liang kô ng, yiu to-siao? |     |
 | p10-14 | 俉是阿裏一國人 | Of what nation are you? | Ng z ʽah-li ih-koh nying? |     |
 | p10-15 | 是誰孬 | Who is to blame? | Z jü wa? |     |
@@ -225,7 +227,7 @@
 | p10-21 | 我一日裹頭兩遭漒肉 | I bathe twice a day. | Ngô ih nyih li-deo liang-tsao gyiang-nyüoh. |     |
 | p10-22 | 其有十千塊番餅 | He has ten thousand dollars. | Gyi yiu jih-tsʽin kwʽe fæn-ping. |     |
 | p11-1 | 好先做葛個後頭做葛個 | Do this first, afterwards the other. | Hao sin tso keh-go, ʽeo-deo tso keh-go. |     |
-| p11-2 | 俉忖忖現在幾點鐘 | What oʽclock do you suppose it is? | Ng tsʽeng-tsʽeng yin-dzæ kyi tin-cong? |     |
+| p11-2 | 俉忖忖現在幾點鐘 | What o’clock do you suppose it is? | Ng tsʽeng-tsʽeng yin-dzæ kyi tin-cong? |     |
 | p11-3 | 好梳頭 | Comb your hair. | Hao s deo. |     |
 | p11-4 | 葛是汝做個 | Who did this? | Keh z jü tso-go? |     |
 | p11-5 | 我從嘸𠺶介話過 | I never said so! | Ngô dzong m-neh ka wô-ko! |     |
@@ -266,7 +268,7 @@
 | p12-18 | 其仍舊來葛個塢碎屯間弗 | Does he live there still? | Gyi dzing-gyiu læ keh-go u-sen deng-kæn feh? |     |
 | p12-19 | 俉寨爲介忖 | What makes you think so? | Ng dza-we ka tsʽeng? |     |
 | p12-20 | 隨便曷裹塢碎好按間 | Put it down any where. | Ze-bin ah-li u-sen hao en-kæn. |     |
-| p12-21 | 現在口口十二點鐘 | It is exactly twelve oʽclock. | Yin-dzæ kʽeo-kʽeo jih-nyi tin cong. |     |
+| p12-21 | 現在口口十二點鐘 | It is exactly twelve o’clock. | Yin-dzæ kʽeo-kʽeo jih-nyi tin cong. |     |
 | p12-22 | 葛個頂有用仗 | This is very useful. | Keh-go ting yiu yüong-dziang. |     |
 | p13-1 | 現在是八點多三檔 | It is now a quarter past eight. | Yin-dzæ z pah-tin to sæn tông. |     |
 | p13-2 | 現在是八點差三檔 | It wants now a quarter to eight. | Yin-dzæ z pah-tin tsʽô sæn tông. |     |
@@ -300,7 +302,7 @@
 | p14-8 | 葛是有數 | That is certain. | Keh z yiu-su. |     |
 | p14-9 | 好烧掉 | Burn it up. | Hao siao diao. |     |
 | p14-10 | 葛件衣裳我穿弗着 | This jacket does not fit me. | Keh gyin i-zông ngô cʽün-feh-djôh. |     |
-| p14-11 | 葛個油𣍐着 | This oil won't burn. | Keh-go yiu ve-dziah. | 「𣍐」原文用字為「⿱勿會」。字庫不支持故改爲更通用的「𣍐」。  <br>「着」原文用字為「⿰火着」。字庫不支持故改爲本字「着」。且該字原文讀音誤做為「gyiah」，已更正為「dziah」。 |
+| p14-11 | 葛個油𣍐着 | This oil won't burn. | Keh-go yiu ve-gyiah. | 「𣍐」原文用字為「⿱勿會」。字庫不支持故改爲更通用的「𣍐」。  <br>「着」原文用字為「⿰火着」。字庫不支持故改爲本字「着」。且「gyiah」為該字的錯誤讀音，正確讀音應為「dziah」。 |
 | p14-12 | 領着汝讀兌 | Whose turn is it to read? | Ling-djoh jü doh-de? |     |
 | p14-13 | 葛個買九個銅錢 | It cost nine cash. | Keh-go ma kyiu-go dong-din |     |
 | p14-14 | 俉肯賤點弗 | Will you take less for it? | Ng kʽeng zin-tin feh? |     |
@@ -311,4 +313,91 @@
 | p14-19 | 等葛個人做生意是難做個 | He is a hard man to deal with. | Tʽeng keh-go nying tso sang-i z næn tso-go. |     |
 | p14-20 | 嘸惱忒戲 | Don't play too hard. | M-nao tʽeh hyi. |     |
 | p14-21 | 葛星是俉自個弗 | Are they your own? | Keh-sing z ng zi-go feh? | 「自」原文用字為「⿰自己」。字庫不支持故改爲本字「自」。 |
-| p14-22 | 弗是我個是我老妘個 | No, they are my wifeʽs. | Feh z ngô-go, z ngô lao-nyüing-go. |     |
+| p14-22 | 弗是我個是我老妘個 | No, they are my wife's. | Feh z ngô-go, z ngô lao-nyüing-go. |     |
+| p15-1 | 葛個地是汝個 | Who owns this land? | Keh-go di z jü go? |     |
+| p15-2 | 打一個西結 | Tie it in a hard knot. | Tang ih-go si-kyih. |     |
+| p15-3 | 一個活結愈加省力解 | A bow knot will be easier to untie. | Ih-go weh-kyih yü-kô sang-lih ka. |     |
+| p15-4 | 其正日走出間 | He has been gone all day. | Gyi tsing nyih tseo-cʽih-kæn. |     |
+| p15-5 | 葛等俉有啥个相干 | What is that to you? | Keh teng ng yiu soh-go siang-ken? |     |
+| p15-6 | 俉幾時會做好 | When can you get it done? | Gyi kyi-z we tso-hao? |     |
+| p15-7 | 葛個肉是嘸𠺶熟 | This meat is not done. | Keh-go nyüoh z m-neh joh. |     |
+| p15-8 | 葛俉嘔啥西 | What do you call this? | Keh ng eo soh-si? |     |
+| p15-9 | 嘸惱到日頭塢碎起 | Keep out of the sun. | M-nao tao nyih-deo u-sen kyʽi. |     |
+| p15-10 | 其走轉起兌 | He is gone back. | Gyi tseo-cün-kyʽi-de. |     |
+| p15-11 | 汝差俉到塘頭來 | Who sent you here? | Jü tsʽa ng tao dông-deo læ? |     |
+| p15-12 | 嘸惱再到塘頭來 | Don't come here again. | M-nao tsæ tao dông-deo læ. |     |
+| p15-13 | 我脚冷冷個 | My feet are cold. | Ngô kyiah lang-lang-go. |     |
+| p15-14 | 葛上熱熱個冷冷其 | It is hot, wait till it gets cold. | Keh-zông nyih-nyih go, lang-lang gyi. |     |
+| p15-15 | 俉嘸惱介做 | You must not do so. | Ng m-nao ka tso. |     |
+| p15-16 | 俉有數弗 | Are you sure of it? | Ng yiu-su feh? |     |
+| p15-17 | 寨爲立落好去 | Why do you stop, go on? | Dza we lih-loh, hao kyʽi? |     |
+| p15-18 | 奔起嘔其轉來 | Run and call him back. | Peng kyʽi, eo gyi cün-læ. |     |
+| p15-19 | 其向天跌倒 | He fell flat on his back. | Gyi hyiang tʽin tih-tao. |     |
+| p15-20 | 吉密俉一定要來屋裏 | You must stay at home to-day. | Kyih-mih ng ih-ding iao læ oh-li. |     |
+| p15-21 | 其葛遭塘頭嘸惱住東 | He does not live here now. | Gyi keh-tsao dông-deo m-neh djü tông. |     |
+| p15-22 | 其個老妘是阿拉姑媽 | His wife is my aunt. | Gyi go lao-nyüing z ah-lah kwu-mô. |     |
+| p16-1 | 葛個廠笆好挨拉其 | Prop up this fence. | Keh go tsʽiang-pô hao a leh gyi. |     |
+| p16-2 | 葛是我實在歡喜個 | I am very glad of that. | Keh-z ngô jih-dzæ hwun-hyi go. |     |
+| p16-3 | 我脚痛 | I have a pain in my foot. | Ngô kyiah tʽong |     |
+| p16-4 | 其弗留心做其事幹 | His mind is not on his work. | Gyi feh liu-sing tso gyi z ken. |     |
+| p16-5 | 是介弗是介嘸數 | It may be so or may not. | Z-ka, feh z-ka, m-su. |     |
+| p16-6 | 其足管要戲戲 | He is always wanting to play. | Gyi coh-kwun iao hyi-hyi. |     |
+| p16-7 | 其生成是聾𦗭啞子 | He was born deaf and dumb. | Gyi sang-dzing z long-bang ô-ts. |     |
+| p16-8 | 俉還要我做啥事 | What more can I do for you? | Ng wa iao ngô tso soh-si? | 「soh-si」對應漢字應爲「啥西」。 |
+| p16-9 | 俉七日一遭好居屋裏起 | You may go home once a week. | Ng tsʽih nyih ih-tsao hao kyü oh-li kyʽi. |     |
+| p16-10 | 我樣樣都要點 | I want some of each kind. | Ngô yiang-yiang, tu iao tin. |     |
+| p16-11 | 其吉密嘸𠺶來過 | He has not been here to-day. | Gyi kyih-mih m-neh læ-ko. |     |
+| p16-12 | 俉還要多少 | What more do you want? | Ng wa iao to-siao? |     |
+| p16-13 | 俉塘頭來東多少時節 | How long have you been here? | Ng dòng deo læ-tong to-siao z-tsin? |     |
+| p16-14 | 俉塘頭等東等到我轉來 | Stay here till I come back. | Ng dộng-deo teng-tong teng-tao ngô cün-læ. |     |
+| p16-15 | 俉送搬汝 | Whom did you give it to? | Ng song peh jü? |     |
+| p16-16 | 俉幾時居來 | When shall you come back. | Ng kyi-z kyy læ? |     |
+| p16-17 | 葛口井深深個 | This well is very deep. | Keh-kʽeo tsing sing-sing go. |     |
+| p16-18 | 我弗爽快 | I am not well. | Ngô feh shông-kwʽa. |     |
+| p16-19 | 我要其做拉好 | I want it done well. | Ngô iao gyi tso.lah hao. |     |
+| p16-20 | 其來的取呌比 | He is whistling. | Gyi læ-tih cʽü kyiao pin. |     |
+| p16-21 | 葛個東西比其好兩俉 | This is twice as good as that is. | Keh-go tong-si pi gyi hao liang-be. |     |
+| p16-22 | 屯一年我以會居來 | Shall come back in a year. | Deng ih-nyin ngô yi we kyã læ. |     |
+| p17-1 | 走過點 | Get out of my way. | Tseo ko tin. |     |
+| p17-2 | 俉要我案做法 | How do you want it done? | Ngiao ngô dzā tso feh? |     |
+| p17-3 | 葛做啥個用仗 | What is this good for? | Keh tso soh go yüong dziang? |     |
+| p17-4 | 俉要做啥 | What do you want it for? | Ng iao tso soh? |     |
+| p17-5 | 俉要多少 | How much do you want? | Ng iao to-siao? |     |
+| p17-6 | 葛配其是出色個 | That is just what he is good for. | Keh pʽe gyi z cʽih-sah go. |     |
+| p17-7 | 俉来東做啥 | What have you been doing here? | Ng læ-tong tso soh? |     |
+| p17-8 | 俉還要啥個東西弗 | Do you want anything else? | Ng wa iao soh-go tong si feh? |     |
+| p17-9 | 俉保庇曷衰一邊 | Which side are you on? | Ng pao-pi ah-li ih-pin? |     |
+| p17-10 | 葛要其管啥 | What has he to do with that? | Keh iao gyi kwun soh? |     |
+| p17-11 | 俉勸我弗信 | I shall do no such thing. | Ng kyʽün ngô feh sing. |     |
+| p17-12 | 葛等我嘸告相干 | That is nothing to me. | Keh teng ngô m-kao siang-ken. |     |
+| p17-13 | 我忙煞兌 | I have a great deal to do. | Ngô mông sah-de. |     |
+| p17-14 | 其到好弄弄的 | He is very well off. | Gyi tao hao long-long-tih. |     |
+| p17-15 | 我一句都弗相信個 | I don't believe a word of it. | Ngô ih kyü tu feh siang-sing go. |     |
+| p17-16 | 俉做拉忒闊 | You have made it too wide. | Ng tso-leh tah kwʽch. |     |
+| p17-17 | 我弗要葛一樣 | This is not the kind I want. | Ngô feh-iao keh ih-yiang |     |
+| p17-18 | 葛一個胡桃是孬個俉搭再拷一個看 | That is a bad one (walnut) try another. | Keh ih go (wu dao) z w̆a go, ng teh tsæ kʽao ih go kʽen. |     |
+| p17-19 | 我做弗其 | I have not been able to finish it. | Ngô tso feh gyi. |     |
+| p17-20 | 俉有幾畝田 | How much land do you own? | Ng yiu kyi-m din? |     |
+| p17-21 | 俉有幾個小人 | How many children have you? | Ng yiu kyi-go siao-nying? |     |
+| p18-1 | 葛個腳桶裹倒點水的 | Pour some water into this foot tub. | Keh-go kyiah-dong-li tao tin shü tih. |     |
+| p18-2 | 其做葛個事幹到會做 | He is clever at that business. | Gyi tso keh go z-ken tao we tso. |     |
+| p18-3 | 是其好做個 | He is the one to do it. | Z gyi hao tso-go. |     |
+| p18-4 | 有兩樣講究來的 | There are two reasons for it. | Yiu liang yiang kông-kyiu læ-tih. |     |
+| p18-5 | 俉寨來的寫 | Why are you writing? | Ng dza læ tih sia? |     |
+| p18-6 | 俉寨爲來東 | Why are you here? | Ng dza we læ-tong? |     |
+| p18-7 | 葛嘸告别個用仗 | It is fit for nothing else. | Keh m-kao bih-go yüong-dziang. |     |
+| p18-8 | 俉寨爲來介遲 | How came you to be so late? | Ng dza-we læ ka dzi? |     |
+| p18-9 | 其别樣告弗管賬 | That is all he cares for. | Gyi bih yiang-kao feh kwun tsiang. |     |
+| p18-10 | 其說話講出算賬 | He does not care what he says. | Gyi shih-wô kông-cʽih sön-tsiang. |     |
+| p18-11 | 俉有用好兌弗 | Have you done with this? | Ng yiu yüong hao-de feh? |     |
+| p18-12 | 葛上是好起做 | Now is the time to do it. | Keh-zông z hao kyʽi tso. |     |
+| p18-13 | 我從嘸𠺶看見過 | It is all new to me. | Ngô dzong m-neh kʽen-kyin ko. | 「嘸𠺶」原文為「嘸吶」。前者出現頻率佔絕對優勢故統一更改爲前者。    |
+| p18-14 | 攏總一樣 | They are all the same. | Long-tsong ih-yiang. |     |
+| p18-15 | 讓攏點 | Don't take up so much room | Nyiang long tin. |     |
+| p18-16 | 葛間房忒小 | This room is too small. | Keh kæn vông tʽeh siao. |     |
+| p18-17 | 俉要我做啥 | What do you want me to do? | Ng iao ngô tso soh? |     |
+| p18-18 | 其是𣍐轉言個人 | He is a man of his word. | Gyi z ve cün-yin-go nying. | 「𣍐」原文用字為「⿱勿會」。字庫不支持故改爲更通用的「𣍐」。 |
+| p18-19 | 葛是口口我要個 | That is just what I want. | Keh z kʽeo-kʽeo ngô iao go. |     |
+| p18-20 | 葛一眼都弗像 | That is not at all like it. | Keh ih-ngæn tu feh-ziang. |     |
+| p18-21 | 葛點嘸告來的 | There is nothing there. | Keh-tin m̆-kao læ-tih. |     |
+| p18-22 | 候氣力試試看 | Try now with all your might. | ʽEo kyʽi-lih s-s kʽen. |     |
