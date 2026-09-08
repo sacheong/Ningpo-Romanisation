@@ -366,7 +366,7 @@
 | p17-6 | 葛配其是出色個 | That is just what he is good for. | Keh pʽe gyi z cʽih-sah go. |     |
 | p17-7 | 俉来東做啥 | What have you been doing here? | Ng læ-tong tso soh? |     |
 | p17-8 | 俉還要啥個東西弗 | Do you want anything else? | Ng wa iao soh-go tong si feh? |     |
-| p17-9 | 俉保庇曷衰一邊 | Which side are you on? | Ng pao-pi ah-li ih-pin? |     |
+| p17-9 | 俉保庇曷裏一邊 | Which side are you on? | Ng pao-pi ah-li ih-pin? |     |
 | p17-10 | 葛要其管啥 | What has he to do with that? | Keh iao gyi kwun soh? |     |
 | p17-11 | 俉勸我弗信 | I shall do no such thing. | Ng kyʽün ngô feh sing. |     |
 | p17-12 | 葛等我嘸告相干 | That is nothing to me. | Keh teng ngô m-kao siang-ken. |     |
