@@ -359,7 +359,7 @@
 | p16-21 | 葛個東西比其好兩俉 | This is twice as good as that is. | Keh-go tong-si pi gyi hao liang-be. |     |
 | p16-22 | 屯一年我以會居來 | Shall come back in a year. | Deng ih-nyin ngô yi we kyü læ. |     |
 | p17-1 | 走過點 | Get out of my way. | Tseo ko tin. |     |
-| p17-2 | 俉要我案做法 | How do you want it done? | Ngiao ngô dzā tso feh? |     |
+| p17-2 | 俉要我寨做法 | How do you want it done? | Ngiao ngô dza tso feh? |     |
 | p17-3 | 葛做啥個用仗 | What is this good for? | Keh tso soh go yüong dziang? |     |
 | p17-4 | 俉要做啥 | What do you want it for? | Ng iao tso soh? |     |
 | p17-5 | 俉要多少 | How much do you want? | Ng iao to-siao? |     |
@@ -423,3 +423,24 @@
 | p19-20 | 其講亂話 | He talks at random. | Gyi kông lön-wô. |     |
 | p19-21 | 黄狗來的叫 | The dog is barking. | Wông-keo læ-tih kyiao. |     |
 | p19-22 | 浪寨大呢 | How high the waves are! | Lông dza do ni! |     |
+| p20-1 | 我弗來顧着 | I did not observe. | Ngô feh læ kwu djôh. |     |
+| p20-2 | 其是直肚白肠個人 | He is a candid man. | Gyi z dzih-du-bah-dziang go nying. |     |
+| p20-3 | 其弗照寨客氣 | He is exceedingly polite. | Gyi feh tsiao-dza kʽah kyʽi. |     |
+| p20-4 | 有千萬螞蟻來的 | There are thousands of ants here. | Yiu tsʽin væn mô-ni læ-tih. |     |
+| p20-5 | 葛個書曷裹印個 | Where was this book printed? | Keh go shü ah-li ing-go. |     |
+| p20-6 | 葛涸書葛遭弗印兌 | This book is out of print. | Keh go shü keh tsao feh ing-de. |     |
+| p20-7 | 其是小氣量人 | He is a stingy fellow. | Gyi z siao-kyʽi-liang nying. |     |
+| p20-8 | 我話向俉道葛弗是介 | I assure you it is not so. | Ngô wô-hyiang-ng-dao, keh feh-z-ka. |     |
+| p20-9 | 葛個書我通本讀過兌 | I have read this book through. | Keh go shü ngô tʽong-peng doh-ko-de. |     |
+| p20-10 | 來草登攤攤開 | Spread it on the grass. | Le tsʽao-teng tʽæn-tʽæn kʽæ. |     |
+| p20-11 | 其個家當攏總弄完兌 | He has lost all his property. | Gyi-go kô-tông long-tsong long-wun-de. |     |
+| p20-12 | 葛樣事幹俉做拉頂好 | You have done this very well. | Keh-yiang z-ken, ng tso-leh ting hao. |     |
+| p20-13 | 葛個人是隔搭個 | He is a hard man to please. | Keh-go nying z keh-tah go. |     |
+| p20-14 | 葛到也好 | It is a tolerably good one. | Keh tao yia hao. |     |
+| p20-15 | 葛個小人其頂值錢個 | This is his favourite child. | Keh-go siao nying, gyi ting dzih-din-go. |     |
+| p20-16 | 其脚步路頭𢺴出兌 | He has sprained his ankle. | Gyi kyiah-bu-lu-den üih-cʽih-de. |     |
+| p20-17 | 我從來單只有葛一個 | I have never had any other. | Ngô dzong-læ tæn-tsih yiu keh ih-go. |     |
+| p20-18 | 葛做拉嘸𠺶好 | This is not done well. | Keh tso-leh m̆-neh hao. |     |
+| p20-19 | 我櫻桃樹裏有千萬櫻桃來的 | I have thousands of cherries on my trees. | Ngô ang-dao jü li, yiu tsʽin-væn ang-dao læ-tih. |     |
+| p20-20 | 俉氣量寨小 | How stingy you are! | Ng kyʽi-liang dza siao! |     |
+| p20-21 | 一眼都嘸𠺶好丢掉 | Don't throw away a single bit. | Ih-ngæn tu m̆-neh hao tiu-diao. |     |
