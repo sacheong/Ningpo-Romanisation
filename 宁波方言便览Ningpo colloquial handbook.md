@@ -444,3 +444,68 @@
 | p20-19 | 我櫻桃樹裏有千萬櫻桃來的 | I have thousands of cherries on my trees. | Ngô ang-dao jü li, yiu tsʽin-væn ang-dao læ-tih. |     |
 | p20-20 | 俉氣量寨小 | How stingy you are! | Ng kyʽi-liang dza siao! |     |
 | p20-21 | 一眼都嘸𠺶好丢掉 | Don't throw away a single bit. | Ih-ngæn tu m̆-neh hao tiu-diao. |     |
+| p21-1 | 一眼都嘸𠺶好遭塌掉 | Don't waste a bit of it. | Ih-ngæn tu m̆-neh hao tsao-tʽah diao. |     |
+| p21-2 | 俉好等其起稱稱糖 | Go and help to weigh that sugar. | Ng hao teng gyi kyʽi tsʽing tsʽing dông. |     |
+| p21-3 | 葛是和然差兌 | That was a great mistake. | Keh z ʽo-jün tsʽo-de. |     |
+| p21-4 | 其弄好間 | She is ready. | Gyi long-hao-kæn. |     |
+| p21-5 | 其來樓下等俉間 | He is waiting for you downstairs. | Gyi læ leo-ʽô teng ng kæn. |     |
+| p21-6 | 葛隻水牛寨惡呢 | How fierce that buffalo is! | Keh tsah shü-ngeo dza oh-ni! |     |
+| p21-7 | 先生寨嚴 | How strict the teacher is. | Sin-sang dza nyin. |     |
+| p21-8 | 葛幅畫到好看 | How pretty that picture is. | Keh-foh wô tao hao-kʽen. |     |
+| p21-9 | 葛個格向盤到是小 | What a small compass. | Keh-go kah-hyiang bun tao z siao. |     |
+| p21-10 | 今年蕃薯到弗孬 | The potatoes are by no means bad this year. | Kying nyin fæn-jü tao feh w̆a. |     |
+| p21-11 | 琵琶俉會彈弗 | Do you play the guitar? | Bi-bô ng we dæn feh? |     |
+| p21-12 | 琵琶𣍐彈八音琴會彈 | No, but I play the piano. | Bi-bô ve dæn, pah-ing-gying we dæn. | 「𣍐」原文用字為「⿱勿會」。字庫不支持故改爲更通用的「𣍐」。 |
+| p21-13 | 俉綳子會做弗 | Can you embroider? | Ng pang-ts we tso feh? |     |
+| p21-14 | 俉花會紡弗 | Can you spin? | Ng hwô we fông feh? |     |
+| p21-15 | 我個東西攏總撥强盗 刦起兌 | My things were all taken by pirates. | Ngô go tong-si long-tsong peh gyiang dao kyih-kyʽi-de. |     |
+| p21-16 | 葛株樹果子𣍐結 | That tree bears no fruit. | Keh-cü jü ko-ts ve-kyih. | 「𣍐」原文用字為「⿱勿會」。字庫不支持故改爲更通用的「𣍐」。 |
+| p21-17 | 其屋瓦頭登來間 | He is on the roof of the house. | Gyi oh-ngô-deo-teng læ-kæn. |     |
+| p21-18 | 鏡子拷腐兌 | The looking glass is broken. | Kying-ts kʽao-wu de. |     |
+| p21-19 | 葛實在犯關 | That is unfortunate. | Keh jih-dzæ væn-kwæn. |     |
+| p21-20 | 傷心想 | How tiresome. | Sông-sing siang. |     |
+| p21-21 | 我手套跌落兑 | I have dropped my glove. | Ngô siu-tʽao tih-loh-de. |     |
+| p21-22 | 我個時鳴表撥人家偷起兌 | My watch is stolen. | Ngô-go z-ming piao peh nying-kô tʽeo-kyʽi de. |     |
+| p22-1 | 葛是奥粒撥遭 | That is very dirty. | Keh z ao-lih-peh-tsao. |     |
+| p22-2 | 葛頭有一隻小船拋間 | There is a small boat anchored there. | Keh deo yiu ih-tsah siao-jün pʽao-kæn. |     |
+| p22-3 | 我來東結網 | I am netting. | Ngô læ-tong kyih mông. |     |
+| p22-4 | 桌登布有汁來的 | There is a stain on the table cloth. | Coh-teng-pu yiu tsih læ-tih. |     |
+| p22-5 | 扳拉健 | Row fast. | Pæn lah gyin. |     |
+| p22-6 | 搖拉健 | Scull fast. | Yiao lah gyin. |     |
+| p22-7 | 葛個茶是忒赤 | The tea is too strong. | Keh-go dzô z tʽeh tsʽih. |     |
+| p22-8 | 葛是鹹水還是淡水 | Is it salt water or fresh? | Keh z ʽæn-shü wa z dæn-shü? |     |
+| p22-9 | 葛株樹葛遭來的結菓子兌 | This tree has begun to bear. | Keh cü jü, keh-tsao læ-tih kyih ko-ts de. |     |
+| p22-10 | 葛株樹還只暴時結菓子兌 | That tree has only just begun to bear. | Keh-cü jü, wa tsih bao-z kyih ko-ts-de. |     |
+| p22-11 | 我實在忍耐弗住 | I can't bear it any longer. | Ngô jih-dzæ jing-næ feh djü. |     |
+| p22-12 | 熊俉有看見過弗 | Did you ever see a bear? | Yüong ng yiu kʽen-kyin ko feh? |     |
+| p22-13 | 嘸脚量 | I can't afford it. | M̆ kyiah-liang. |     |
+| p22-14 | 葛是忒貴 | That is too dear. | Keh z tʽeh kyü. |     |
+| p22-15 | 還是葛一個好點 | This one is rather better. | Wa z keh ih-go hao-tin. |     |
+| p22-16 | 我能使弗起 | I would rather not go. | Ngô neng-s feh kyʽi. |     |
+| p22-17 | 其是長長大大個人 | He is a large man. | Gyi z dziang-dziang do-do-go nying. |     |
+| p22-18 | 葛到是希奇 | That's very strange. | Keh tao z hyi-gyi. |     |
+| p22-19 | 葛到有景俉到會介忖 | Strange that you should think so. | Keh tao yiu-kying, ng tao we ka tsʽeng. |     |
+| p22-20 | 嘸惱介來弗其 | Don't be in such a hurry. | M̆-nao ka læ feh gyi. |     |
+| p22-21 | 俉寨會介要緊 | Why are you in such a hurry? | Ng dza-we ka iao-kying? |     |
+| p22-22 | 到角落頭起立間 | Stand in the corner. | Tao koh-loh-den kyʽi lih kæn. |     |
+| p23-1 | 其發買柴病間 | He has the ague. | Gyi fah ma-za-bing kæn. |     |
+| p23-2 | 依點四日藥撥其吃吃 | Give him a little quinine. | I tin s nyih yiah peh gyi kyʽüoh-kyʽüoh. |     |
+| p23-3 | 我個抵針弄掉兌 | My thimble is spoilt. | Ngô go ti-tsing long-diao-de. |     |
+| p23-4 | 我等其大家拼做生意 | I am in partnership with him. | Ngô teng gyi dô-kô pʽing tso sang-i. |     |
+| p23-5 | 葛俉買拉忒貴 | You give too much for it. | Keh ng ma-lah tʽeh kyü. |     |
+| p23-6 | 葛星魚少須煎點多煮煮其 | Fry some of these fish and boil the rest. | Keh-sing ng siao-shü tsin tin, to ts-ts gyi. |     |
+| p23-7 | 到底多少一斤 | How much ought I to give for the pound? | Tao-ti to-siao ih-kying? |     |
+| p23-8 | 火腿好塌點 | Fry some ham. | Ho-tʽe hao tʽah tin. |     |
+| p23-9 | 好下兩鷄蛋 | Poach a few eggs. | Hao ʽô liang kyi-dæn. |     |
+| p23-10 | 鴉片生意現在嘸𠺶寨好 | Opium does not sell very well now. | A-pʽin sang-i, yin-dzæ m̆-neh dza-hao. |     |
+| p23-11 | 肉菓生意到好 | Nutmegs are in great demand. | Nyüoh- ko sang-i tao hao. |     |
+| p23-12 | 葛個人是買奴僕個 | He is a slave dealer. | Keh-go nying z ma nu-boh go. |     |
+| p23-13 | 寨可惡 | How horrid. | Dza kʽo-u. |     |
+| p23-14 | 其個眼睛起血線 | His eyes flashed. | Gyi go ngæn-tsing kyʽi hyüih-sin. |     |
+| p23-15 | 葛個娘子頂幽秀 | That girl is very modest. | Keh-go nyiang-ts ting iu-siu. |     |
+| p23-16 | 葛個小人寨野氣 | How bold that child is. | Keh-go siao-nying dza-yia-kyʽi. |     |
+| p23-17 | 按來貼地樣 | Put it down on the ground. | En læ tʽah-di-yiang. |     |
+| p23-18 | 葛個線實在寨細 | How fine this thread is. | Keh go sin jih-dzæ dza-si. |     |
+| p23-19 | 其話弗肯 | He says he is not willing. | Gyi wô feh kʽeng. |     |
+| p23-20 | 丫臉呢 | What a shame. | Ô li ni! | 「臉」字可能受后字影響丟失鼻音。 |
+| p23-21 | 葛星襪好起補起 | Go and mend these stockings. | Keh sing mah, hao kyʽi pu kyʽi. |     |
