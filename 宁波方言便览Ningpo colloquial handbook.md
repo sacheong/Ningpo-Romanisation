@@ -614,7 +614,7 @@
 
 #### 開場白 Kʽæ Dziang Beh
 
-| 頁碼  | 中文  | 英文  | 音標  |     |
+| 頁碼  | 中文  | 羅馬字 | 羅馬字 | 備注  |
 | --- | --- | --- | --- | --- |
 | p29 | 先生俉好弗 | How do you do? | Sin-sang ng hao feh? |     |
 | p29 | 先生尊姓 | What is your honorable name? | Sin-sang tseng-sing? |     |
@@ -632,3 +632,195 @@
 | p29 | 火弗着，要柴爿，要煤炭 | The fire will not burn. Bring wood. Bring coal. | Ho feh-dziah, Iao za bæn, Iao me-tʽæn. | 「着」原文用字為「⿰火着」。字庫不支持故改爲本字「着」。 |
 | p29 | 葛兩個講法曷裏一個（愈加）好 | Of these two forms which is better? | Keh liang-go kông-fah, ʽah li ih go (yü-ko) hao? | 「加」音「ko」疑為印刷錯誤。正確讀音應爲「kô」。 |
 | p29 | 出氣勿出氣 答，出氣 | Is it aspirated? Ans. It is. | Cʽih-kyʽi feh cʽih-kyʽi ? (Teh.) Cʽih-kyʽi. |     |
+
+#### Lesson I. 第一課 Di I Kʽo.
+
+| 頁碼  | 漢字  | 英文  | 羅馬字 | 備注  |
+| --- | --- | --- | --- | --- |
+| p30 | 一個人 | One person. | Ih-go nying. |     |
+| p30 | 兩個男人 | Two men. | Liang-go nen-nying. |     |
+| p30 | 三個女人 | Three women. | Sæn go nyü-nying. |     |
+| p30 | 四位先生 | Four teachers. | S we sin-sang. |     |
+| p30 | 五位夫人 | Five ladies. | Ng we fu-nying. | 原文備注如下：  <br>NOTE: -S-meo=teacher or gentleman's wife not applied to ladies unmarried. |
+| p30 | 六個學生子 | Six pupils. | Loh-go ʽoh-sang-ts. |     |
+| p30 | 七個字眼 | Seven characters. | Tsʽih-go z (or z-ngæn). |     |
+| p30 | 八頭門 | Eight doors. | Pah-deo meng. |     |
+| p30 | 九個月 | Nine months. | Kyiu-ko yüih. |     |
+| p30 | 十館書房 | Ten school rooms (or schools). | Jih-kwun shü-vông. |     |
+| p30 | 十一個銅錢 | Eleven cash. | Jih-ih-go dong-din. |     |
+| p30 | 十二個月是一年 | Twelve months are one year. | Jih-nyi-ko yüih z ih nyin. |     |
+| p30 | 三十日是一個月 | Thirty days are one month. | Sæn-jih-nyih z ih-ko-yüih. |     |
+| p30 | 七日是一禮拜 | Seven days are a week. | Tsʽih-nyih z ih li-pa. |     |
+| p30 | 一千銅錢是一吊 | One thousand cash are a string. | Ih-tsʽin dong din z ih-tiao. |     |
+| p30 | 一百五十個人 | One hundred and fifty men. | Ih-pah ng-jih-go nying. |     |
+| p30 | 十九個小銅錢 | Nineteen small cash. | Jih-kyiu-go siao dong-din. |     |
+| p30 | 二百五十個女人 | Two hundred and fifty women. | Nyi-pah ng-jih-go nyü-nying. |     |
+| p31 | 一百零六個銅錢 | One hundred and six cash. | Ih-pah ling loh-go dong-din. |     |
+| p31 | 一年零八個月 | A year and eight months. | Ih-nyin ling pah-ko-yüih. |     |
+| p31 | 十一個月零七日 | Eleven months and seven days. | Jih-ih-ko yüih ling tsʽih-nyih. |     |
+| p31 | 先生有許多銅錢 | The teacher has a good many cash (or much money). | Sin-sang yiu hyü-to dong-din. |     |
+| p31 | 門口有幾個女人 | There are some women at the door (or How many women are?) | Meng-kʽeo yiu kyi-go nyü-nying? |     |
+| p31 | 書房有一大隊學生子 | There are a good many scholars in the school room. | Shü-vông yiu ih-do-de ʽoh-sang-ts. |     |
+| p31 | 門口有五六人 | There are five or six men at the door. | Meng-kʽeo yiu ng-loh nying. |     |
+| p31 | 一千六百零八個男人 | One thousand six hundred and eight men. | Ih-tsʽin loh-pah ling pah-go nen-nying. |     |
+| p31 | 一年有三百六十五日 | There are three hundred and sixty-five days in a year. | Ih-nyin yiu sæn-pah loh-jih ng nyih. |     |
+| p31 | 三千零五個銅錢 | Three thousand and five cash. | Sæn-tsʽin ling ng-go dong-din. |     |
+| p31 | 李太太有十八九個學生子 | Madam Li has eighteen or nineteen pupils. | Li tʽa-tʽa yiu jih pah-kyiu-ko ʽoh-sang-ts. |     |
+| p31 | 李老爺是個好人 | Li Lao Yie is a good man. | Li lao-yia z-go hao-nying. |     |
+| p31 | 房老爺有三千五百銅錢 | Fang Lao Yie has three thousand five hundred cash. | Vông lao-yia yiu sæn-tsʽin ng-pah dong-din. |     |
+
+#### Lesson II. 第二課 Di II Kʽo.
+
+| 頁碼  | 漢字  | 英文  | 羅馬字 | 備注  |
+| --- | --- | --- | --- | --- |
+| p31 | 葛個人嘸𠺶學問 | This man has no learning. | Keh-go nying m̆-neh ʽoh-veng. |     |
+| p31 | 葛個人嘸𠺶銅錢 | This man has no money. | Keh-go nying m̆-neh dong-din. |     |
+| p31 | 葛個聲音弗好聽 | This syllable is not pleasant to hear. | Keh-go sing-ing feh hao tʽing. |     |
+| p31 | 葛星小銅錢是嘸用（弗好用，嘸告用） | These small cash are not good to use (will not pass). | Keh-sing siao dong-din z m̆ yüong, (feh hao yüong, or, m̆-kao yüong). | 漢字括號内為校對者根據羅馬字添加，非原文獻内容。 |
+| p32 | 葛支筆弗大好 | This pen is not very good. | Keh-ts pih feh-da hao. |     |
+| p32 | 葛星字難學 | These characters are hard to learn. | Keh-sing z næn ʽoh. |     |
+| p32 | 葛個地方弗好 | That place is not good. | Keh-go di-fông feh-hao. |     |
+| p32 | 葛個人弗會講官話 | This man cannot speak mandarin. | Keh-go nying feh-we kông kwun-wô. |     |
+| p32 | 葛個人有病弗能彀吃飯 | That man is ill, and is unable to eat. | Keh-go nying yiu bing, feh-neng-keo kyʽüoh-væn. |     |
+| p32 | 葛星東西實在弗好用 | These things are really not usable. | Keh-sing tong-si jih-dzæ feh-hao yüong. |     |
+| p32 | 弗要開葛個門 | Do not open that door. | Feh-iao kʽæ keh-go meng. |     |
+| p32 | 葛星人嘸𠺶飯好吃 | Those men have nothing to eat. | Keh-sing nying m-neh væn hao kyʽüoh. |     |
+| p32 | 葛個學生子會寫許多字 | That scholar can write a good many characters. | Keh-go ʽoh-sang-ts we sia hyü-to z. |     |
+| p32 | 葛個人弗講實話 | This man does not speak the truth. | Keh-go nying feh-kông jih-wô. |     |
+| p32 | 葛個人弗會寫字 | That man cannot write. | Keh-go nying feh-we sia z. |     |
+| p32 | 葛個字實在是難寫 | Truly this character is not easy to write. | Keh-go z jih-dzæ z næn sia. |     |
+| p32 | 葛個人弗要葛星小銅錢 | That man will not take small cash. | Keh-go nying feh-iao keh-sing siao dong-din. |     |
+| p32 | 葛星說話實在難學 | These words are truly hard to learn. | Keh-sing shih-wô jih-dzæ næn-ʽoh. |     |
+| p32 | 請先生寫葛個字 | Will you (teacher) please write the character? | Tsʽing sin-sang sia keh-go z. |     |
+| p32 | 葛個學生子弗聽說話 | That scholar does not heed what he is told. | Keh-go ʽoh-sang-ts feh-tʽing shih-wô. |     |
+| p32 | 太太弗能彀吃葛個飯 | The lady cannot eat this food. | Tʽa-tʽa feh-neng-keo kyʽüoh keh-go væn. |     |
+| p33 | 葛個地方有一大隊人 | There are a good many men in that place. | Keh-go di-fông yiu ih-do-de nying. |     |
+| p33 | 葛個小學生子弗大老實 | That little pupil is not very steady. | Keh-go siao ʽoh-sang-ts, feh-da lao-jih. |     |
+| p33 | 葛個地方嘸𠺶好人 | There are no good men in that place. | Keh-go di-fông m̆-neh hao-nying. |     |
+| p33 | 葛個地方嘸𠺶一個好人 | There is not one good man in that place. | Keh-go di-fông m̆-neh ih-go hao-nying. |     |
+| p33 | 葛個地方連一個好人都嘸𠺶 | There is not even a single good man in that place. | Keh-go di-fông lin ih-go hao-nying tu m̆-neh. |     |
+| p33 | 葛個地方嘸𠺶窮人 | There are no poor people in this place. | Keh-go di-fông m̆-neh gyüong-nying. |     |
+| p33 | 葛個學生子要六個銅錢 | This pupil wants six cash. | Keh-go ʽoh-sang-ts iao loh-go dong-din. |     |
+| p33 | 葛個老先生實在窮苦 | This old teacher is exceedingly poor. | Keh-go lao-sin-sang jih-dzæ gyüong-kʽwu. |     |
+
+#### Lesson III. 第三課 Di III Kʽo.
+
+| 頁碼  | 漢字  | 英文  | 羅馬字 | 備注  |
+| --- | --- | --- | --- | --- |
+| p33 | 其天亮飯還嘸𠺶吃過 | He has not eaten breakfast. | Gyi tʽin-liang-væn, wæn m̆-neh kyʽüoh-ko (tʽin-nyiang preferred). |     |
+| p33 | 我有三百銅錢 | I have three hundred cash. | Ngô yiu sæn-pah dong-din. |     |
+| p33 | 其拉弗能彀來 | They cannot come. | Gyi-lah feh-neng-keo læ. |     |
+| p33 | 我嘸𠺶銅錢 | I have no money. | Ngô m̆-neh dong-din. |     |
+| p33 | 其弗會寫葛個字（葛個字其弗能彀寫） | He cannot write this character. | Gyi feh-we sia keh-go z (or keh-go z gyi feh-neng-keo sia). | 漢字括號内為校對者根據羅馬字添加，非原文獻内容。 |
+| p33 | 我弗明白葛個字 | I do not understand this character. | Ngô feh-ming-beh keh-go z. |     |
+| p33 | 先生要俉講實話 | The teacher wants you to speak the truth. | Sin-sang iao ng kông jih-wô. |     |
+| p33 | 其弗能彀弗通知 | He cannot but tell you. | Gyi feh-neng-keo feh tʽong-cü. |     |
+| p33 | 俉拉好等一等 | You may wait a little. | Ng-lah hao teng-ih-teng. |     |
+| p34 | 阿拉嘸𠺶地方寫字 | We have no place to write. | Ah-lah m̆-neh di-fông sia-z. |     |
+| p34 | 其弗會開葛個門 | He cannot open this door. | Gyi feh-we kʽæ keh-go meng. |     |
+| p34 | 葛個時候我弗能彀去 | At that time I cannot go. | Keh-go z-ʽeo, ngô feh neng-keo kyʽi. |     |
+| p34 | 葛禮拜我弗能彀來 | This week I cannot come. | Keh-li-pa ngô feh-neng-keo læ. |     |
+| p34 | 俉去話一聲等一等 | You go and tell him to wait a little. | Ng kyʽi wô-ih-sing, teng-ih-teng. |     |
+| p34 | 阿拉還嘸𠺶吃晝過飯 | We have not yet eaten dinner. | Ah-lah wæn m̆-neh kyʽüoh tsiu-ko-væn. |     |
+| p34 | 葛個事幹俉弗能彀弗管 | You cannot but attend to this affair. | Keh-go z-ken, ng feh-neng-keo feh-kwun. |     |
+| p34 | 葛個事幹俉勿可告訴其 | You must not tell him of this business. | Keh-go z-ken, ng feh-kʽo kao-su gyi. |     |
+| p34 | 葛個飯我實在弗能彀吃 | I really cannot eat this food. | Keh-go væn, ngô jih-dzæ feh neng-keo kyʽüoh. |     |
+| p34 | 葛個時候其拉口口吃飯 | They are just now eating. | Keh-go z-ʽeo, gyi-lah kʽeo-kʽeo kyʽüoh-væn. |     |
+| p34 | 葛個東西我弗能彀撥俉 | I cannot give you this article. | Keh-go tong-si, ngô feh-neng-keo peh ng. |     |
+| p34 | 葛個事幹我實在弗曉得 | This business I positively do not know. | Keh-go z-ken, ngô jih-dzæ feh hyiao-teh. |     |
+| p34 | 其弗明白葛個道理 | He does not understand this doctrine. | Gyi feh-ming-beh keh-go dao-li. |     |
+| p34 | 請先生撥我三千銅錢 | Please, teacher, give me three thousand cash. | Tsʽing sin-sang peh ngô sæn-tsʽin dong-din. |     |
+| p34 | 葛個事幹阿拉弗能彀弗告訴先生 | We cannot but tell the teacher of this affair. | Keh-go z-ken, ah-lah feh-neng-keo feh kao-su sin-sang. |     |
+| p34 | 葛個時候其拉還嘸𠺶吃夜飯 | At this time they have not yet eaten supper. | Keh-go z-ʽeo, gyi-lah wæn m̆-neh kyʽüoh-yia-væn. |     |
+| p34 | 俉好話向其道禮拜四來 | You may tell him to come on Thursday. | Ng hao wô-hyiang-gyi-dao, li-pa-s læ. |     |
+| p34 | 明朝是禮拜日阿拉弗讀書 | To-morrow is Sunday, we will not study. | Ming-tsiao z li-pa-nyih, ah-lah feh doh-shü. |     |
+
+#### Lesson IV. 第四課 Di IV Kʽo.
+
+| 頁碼  | 漢字  | 英文  | 羅馬字 | 備注  |
+| --- | --- | --- | --- | --- |
+| p35 | 我個銅錢弗彀 | My money is not sufficient. | Ngô-go dong-din feh-keo. |     |
+| p35 | 老爺個說話弗錯 | Your Honorʽs words are correct. | Lao-yia-go shih-wô feh-tsʽo. |     |
+| p35 | 俉好甮管我個事幹 | Do not meddle in my affair | Ng hao-vong kwun ngô-go z-ken. | 「甮」原文用字為「⿱勿逢」。字庫不支持故改爲更通用的「甮」。 |
+| p35 | 其個學問弗多 | His scholarship is not good. | Gyi-go ʽoh veng feh to. |     |
+| p35 | 其弗懂我個說話 | He does not understand my talk. | Gyi feh tong ngô-go shih-wô. |     |
+| p35 | 俉弗該話其阿娘個弗是 | You ought not to speak of his motherʽs fault. | Ng feh-kæ wô gyi ah-nyiang go feh-z. |     |
+| p35 | 葛個東西是我個 | This article is mine. | Keh-go tong-si z ngô-go. |     |
+| p35 | 我弗能彀隨其個便 | I cannot accommodate myself to his convenience. | Ngô feh-neng-keo ze gyi-go bin. |     |
+| p35 | 其弗明白我個意思 | He does not comprehend my idea. | Gyi feh-ming-beh ngô-go i-s. |     |
+| p35 | 師母個衣裳實在好看 | Your clothes are very beautiful, madam. | S-meo go i-zông, jih-dzæ hao-kʽen. |     |
+| p35 | 李先生個意思正對 | Mr. Li's idea is exactly right (or, your idea, Mr. Li, is exactly right). | Li sin-sang-go i-s tsing-te. |     |
+| p35 | 俉先生個意思弗大合式 | Your teacher's idea is not quite suitable. | Ng sin-sang-go i-s feh-da ʽeh-sih. |     |
+| p35 | 其個意思容易明白 | His idea is easily understood. | Gyi-go i-s yüong-yi ming-beh. |     |
+| p35 | 葛弗是其男人個事幹 | This is not her husband's business. | Keh feh-z gyi nen-nying go z-ken. |     |
+| p35 | 其弗明白俉個說話 | He did not understand your language. | Gyi feh-ming-beh ng-go shih-wô. |     |
+| p35 | 葛個東西我弗中意 | This thing does not suit me. | Keh-go tong-si ngô feh cong-i. |     |
+| p35 | 我弗曉得塘頭地方個規矩 | I do not understand the custom of this place. | Ngô feh-hyiao-teh dông-deo di-fông-go kwe-kyü. |     |
+| p36 | 先生個說話我聽弗明白 | I do not understand what you say (or, the teacher says). | Sin-sang-go shih-wô, ngô tʽing-feh-ming-beh. |     |
+| p36 | 李先生個書房嘸𠺶規矩 | Mr. Li's school room has no discipline. | Li sin-sang-go shü-vông m̆-neh kwe-kyü. |     |
+| p36 | 葛個人官話實在好聽 | This manʽs Mandarin is exceedingly pleasant to hear. | Keh-go nying kwun-wô jih-dzæ hao-tʽing. |     |
+| p36 | 阿拉個老爺嘸𠺶葛種介規矩 | Our master has no such customs. | Ah-lah go lao-yia m̆-neh keh-cü-ka kwe-kyü. |     |
+| p36 | 請老爺嘸惱生氣葛是我錯 | Please, Sir, do not get angry; this is my mistake. | Tsʽing lao-yia m̆-nao sang-kyʽi, keh z ngô tsʽo. |     |
+| p36 | 其女人個力氣比其大 | His wife's strength is greater than his. | Gyi nyü-nying-go lih-kyʽi pi gyi do. |     |
+| p36 | 中國字比外國字難寫 | Chinese characters are more difficult to write than foreign. | Cong-koh z pi nga-koh z næn sia. |     |
+| p36 | 葛一課生字弗大多 | There are not very many new characters in this lesson. | Keh ih-kʽo sang-z feh-da to. |     |
+
+#### Lesson V. 第五課 Di V Kʽo.
+
+| 頁碼  | 漢字  | 英文  | 羅馬字 | 備注  |
+| --- | --- | --- | --- | --- |
+| p36 | 葛張桌凳弗乾淨 | This table is not clear. | Keh-kyiang coh-teng feh ken-zing. | 「kyiang」為「張」的錯誤讀音，正確讀音應爲「tsiang」。 |
+| p36 | 其個法子弗對 | His plan is not suitable. | Gyi-go fah-ts feh-te. |     |
+| p36 | 俉嘸惱學其個樣子 | You must not follow his example. | Ng m̆-nao ʽoh gyi-go yiang-ts. |     |
+| p36 | 其有兩個兒子一個姑娘 | He has two sons and one daughter. | Gyi yiu liang-go ng-ts ih-go kwu-nyiang. |     |
+| p36 | 葛星花實在好看 | Those flowers are certainly beautiful. | Keh-sing hwô jih-dzæ hao-kʽen. |     |
+| p36 | 葛星椅子弗好坐 | These chairs are not fit to sit on (or, not comfortable). | Keh-sing ü-ts feh-hao zo. |     |
+| p36 | 我弗要葛個小屋 | I do not want this small house. | Ngô feh-iao keh-go siao-oh. |     |
+| p36 | 其個老𡢿弗會做人家 | His wife cannot economize. | Gyi go lao-nyüing feh-we tso nying-kô. |     |
+| p37 | 其弗能彀弗做窮人 | He cannot but be a poor man. | Gyi feh-neng-keo feh-tso gyüong-nying. |     |
+| p37 | 三兩銀子該兌五千多銅錢 | Three ounces of silver ought to sell for over five thousand cash. | Sæn-liang nying-ts kæ de ng-tsʽin to dong-din. |     |
+| p37 | 其欠我二千多銅錢 | He owes me more than two thousand cash. | Gyi kyʽin ngô nyi-tsʽin to dong-din. |     |
+| p37 | 葛個老頭嘸𠺶兒子 | That old man has no son. | Keh-go lao-deo m̆-neh ng-ts. |     |
+| p37 | 葛個老婆婆有七十多歲 | This old woman is over seventy years old. | Keh-go lao-bo-bo yiu tsʽih-jih to-shü. |     |
+| p37 | 其個小人嘸𠺶力氣（氣力） | His child has no strength. | Gyi go siao-nying m̆-neh lih-kyʽi (kyʽi-lih). | 漢字括號内為校對者根據羅馬字添加，非原文獻内容。 |
+| p37 | 李老爺個兒子明朝生日 | To-morrow is Mr. Li's son's birthday. | Li lao-yia-go ng-ts ming-tsiao sang-nyih. |     |
+| p37 | 伊先生個囡還嘸𠺶出嫁（做新婦） | Mr. I's daughter is not yet married. | I sin-sang-go nön wa m̆-neh cʽih-kô (tso sing-vu). | 漢字括號内為校對者根據羅馬字添加，非原文獻内容。 |
+| p37 | 葛支筆嘸𠺶尖頭 | This pen has no point. | Keh-ts-pih m̆-neh tsin-deo. |     |
+| p37 | 我個小刀弗大快 | My pocket knife is not very sharp. | Ngô-go siao-tao feh-da kwʽa. |     |
+| p37 | 外國人嘸𠺶辮子 | Foreigners have no queues. | Nga-koh-nying m̆-neh bin-ts. |     |
+| p37 | 嘸惱開書房個門 | Do not open the school room door. | M̆-nao kʽæ shü-vông-go meng. |     |
+| p37 | 葛星杏子賣三個銅錢一個 | These apricots sell for three \[large\] cash apiece. | Keh-sing ʽang-ts ma sæn-go dong-din ih-go. |     |
+| p37 | 一日不過（只有）學念五六個生字 | One can learn only twenty-five or six new characters in a day. | Ih-nyih peh-ko (tsih-yiu) ʽoh nyiæn-ng-loh-go sang-z. | 漢字括號内為校對者根據羅馬字添加，非原文獻内容。 |
+| p37 | 李師母要僱一個阿姆，管小人，小人或者話奶歡 | Mrs. Li wishes to hire an old woman (or, a nurse) to take care of her baby. | Li S-meo iao kwu ih-go A-m kwun siao-nying, (siao-nying, ʽoh-tsia wô na-hwun). |     |
+| p37 | 其個小名叫拉宜之，其個書名我弗曉得 | His little name is called Nien-tʽsi, his school name I do not know. | Gyi-go siao-ming kyiao leh Nyi-ts, gyi-go shü-ming ngô feh hyiao-teh. |     |
+
+#### Lesson VI. 第六課 Di VI Kʽo.
+
+| 頁碼  | 漢字  | 英文  | 羅馬字 | 備注  |
+| --- | --- | --- | --- | --- |
+| p38 | 我個阿爹弗來屋裏 | My father is not at home. | Ngô go ah-tia, feh læ oh-li. |     |
+| p38 | 我個阿娘還來東 | My mother is still living. | Ngô go ah-nyiang, wa læ-tong. |     |
+| p38 | 其拉屯來城裏 | They live in the city. | Gyi-lah deng læ dzing-li. |     |
+| p38 | 我屯來東門外 | I live outside the east gate. | Ngô deng læ tong-meng-nga. |     |
+| p38 | 其拉兩個人睏來眠牀裏 | They two are lying on the bed. | Gyi-lah liang-go nying kwʽeng læ min-zông-li. |     |
+| p38 | 來樓下嘸人 | There is no one downstairs. | Læ leo-ʽô m̆-nying. |     |
+| p38 | 李師母來樓登鋪牀 | Mrs. Li is upstairs making the beds. | Li S-meo læ leo-teng pʽu zông. |     |
+| p38 | 李先生來屋裏看書 | Mr. Li is at home (or in the house) reading. | Li sin-sang læ oh-li kʽen shü. |     |
+| p38 | 上頭有天，下頭有地 | Above is heaven, below is the earth. | Zông-deo yiu tʽin, ʽô-deo yiu di. |     |
+| p38 | 好甮搗門，其弗來屋裏 | You need not knock at the door; he is not at home. | Hao-vong tao-meng, gyi feh læ oh-li. | 「甮」原文用字為「⿱勿逢」。字庫不支持故改爲更通用的「甮」。 |
+| p38 | 其阿姆有病睏來炕牀裏，阿姆就是母親 | His mother is lying on the kang sick. | Gyi ah-m yiu bing, kwʽeng læ kʽông-zông-li, (ah-m ziu-z meo-tsʽing). |     |
+| p38 | 大姑娘來屋裏紡棉花 | The eldest daughter is in the house spinning. | Do-kwu-nyiang læ oh-li fông min-hwô. |     |
+| p38 | 小娘子來花園裏領奶歡 | The younger daughter is in the yard watching baby. | Siao nyiang-ts læ hwô-yün-li ling na-hwun. |     |
+| p38 | 俉個帽子弗好放來地下 | You should not put your hat on the floor. | Ng-go mao-ts feh-hao fông læ di-ʽô. |     |
+| p38 | 我個衣裳來樓登 | My clothes are upstairs. | Ngô-go i-zông læ leo-teng. |     |
+| p38 | 來桌凳上有許多書 | There are a good many books on the table. | Læ coh-teng zông yiu hyü-to shü. |     |
+| p38 | 其阿爹個店來大街上 | His father's shop is on the main street. | Gyi ah-tia-go tin læ do-ka-zông. |     |
+| p39 | 東街上個買賣弗少 | There is no little business on the east street. | Tong-ka-zông go ma-ma feh-siao. |     |
+| p39 | 來書房裏有廿多個學生子 | There are over twenty pupils in the school room. | Læ shü-vông-li yiu nyiæn-to-go ʽoh-sang-ts. |     |
+| p39 | 來城裏有一百多館書房 | There are over one hundred schools in the city. | Læ dzing-li yiu ih-pah-to kwun shü-vông. |     |
+| p39 | 葛星書好放來桌凳上 | You may put these books on the table. | Keh-sing shü hao fông læ coh-teng zông. |     |
+| p39 | 葛星零碎東西俉好放來窗頭 | These odds and ends you may put on the window-sill. | Keh-sing ling-se tong-si ng hao fông læ cʽông-deo. |     |
+| p39 | 有一個老頭門外來間討飯 | There is an old man outside the gate begging | Yiu ih-go lao-deo meng-nga læ-kæn tʽao-væn. |     |
+| p39 | 花園裏個花實在好看 | The flowers in the yard are truly beautiful. | Hwô-yün-li go hwô jih-dzæ hao-kʽen. |     |
+| p39 | 其拉兩個來書房裏看書 | They two are in the school room studying. | Gyi-lah liang-go læ shü-vông-li kʽen shü. |     |
+| p39 | 李先生個兒子來西門外做買賣 | Mr. Li's son is doing business outside the west gate. | Li sin-sang-go ng-ts, læ si-meng-nga tso ma-ma. |     |
