@@ -824,6 +824,10 @@
 | p39 | 花園裏個花實在好看 | The flowers in the yard are truly beautiful. | Hwô-yün-li go hwô jih-dzæ hao-kʽen. |     |
 | p39 | 其拉兩個來書房裏看書 | They two are in the school room studying. | Gyi-lah liang-go læ shü-vông-li kʽen shü. |     |
 | p39 | 李先生個兒子來西門外做買賣 | Mr. Li's son is doing business outside the west gate. | Li sin-sang-go ng-ts, læ si-meng-nga tso ma-ma. |     |
+
+#### Lesson VII. 第七課 Di VII Kʽo.
+| 頁碼  | 漢字  | 英文  | 羅馬字 | 備注  |
+| --- | --- | --- | --- | --- |
 | p39 | 張先生個錢店已經倒兌 | Mr. Chang's bank is already bankrupt. | Tsiang sin-sang go dzin-tin yi-kying tao-de. |     |
 |  p39   | 我來街上買拉三斤棉花 | I bought three catties of cotton (or, cotton wool) on the street. | Ngô læ ka-zông ma-lah sæn-kying min-hwô. |     |
 | p39    | 我飯已經吃過兌 | I have already eaten. | Ngô væn yi-kying kyʽüoh-ko-de. |     |
@@ -845,7 +849,61 @@
 |   p40  | 時候已經過兌先生還嘸來 | It is already past the time, and the teacher has not yet come. | Z-ʽeo yi-kying ko-de, sin-sang wa m̆-teh læ. |     |
 |  p40   | 葛星說話阿拉已經學拉兩日 | We have already been learning these sentences for two days. | Keh-sing shih-wô, ah-lah yi-kying ʽoh-leh liang-nyih. |     |
 |   p40  | 我五點半到屋裏 | I reached home at five and a half o'clock. | Ngô ng-tin-pun tao oh-li. |     |
-|     | 其巳經寫拉三點鐘工夫，還嘸𠺶寫完 | He has already been writing three hours, and has not yet finished. | Gyi yi-kying sia-leh sæn-tin-cong kong-fu, wa m̆-neh sia-wun. |     |
-|     | 等其來好請到客房裏坐一晌 | When he comes you may invite him into the parlor to sit a while. | Teng gyi læ, hao tsʽing tao kʽeh-vông-li zo-ih-zông. |     |
-|     | 葛個火俉用小心，嘸惱燒掉房子 | You should be careful of the fire and not burn the home. | Keh-go ho ng yüong siao-sing, m̆-nao siao-diao vông-ts. |     |
-|     | 其個小人巳經弗上學兌 | His boy has already quitted school. | Gyi-go siao-nying yi-kying feh zông-ʽoh-de. |     |
+| p41    | 其巳經寫拉三點鐘工夫，還嘸𠺶寫完 | He has already been writing three hours, and has not yet finished. | Gyi yi-kying sia-leh sæn-tin-cong kong-fu, wa m̆-neh sia-wun. |     |
+| p41    | 等其來好請到客房裏坐一晌 | When he comes you may invite him into the parlor to sit a while. | Teng gyi læ, hao tsʽing tao kʽeh-vông-li zo-ih-zông. |     |
+|  p41   | 葛個火俉用小心，嘸惱燒掉房子 | You should be careful of the fire and not burn the home. | Keh-go ho ng yüong siao-sing, m̆-nao siao-diao vông-ts. |     |
+|  p41   | 其個小人巳經弗上學兌 | His boy has already quitted school. | Gyi-go siao-nying yi-kying feh zông-ʽoh-de. |     |
+
+#### Lesson VIII. 第八課 Di VIII Kʽo.
+
+| 頁碼  | 漢字  | 英文  | 羅馬字 | 備注  |
+| --- | --- | --- | --- | --- |
+|  p41    | 林先生來拉嗎 | Has Mr. Lin come? | Ling sin-sang læ-leh ma? |     |
+|  p41    | 俉弗認得我嗎 | Do you not know (recognize) me? | Ng feh nying-teh ngô ma? |     |
+|  p41    | 火爐裏還有火嗎 | Is there still fire in the stove? | Ho-lu-li wa-yiu ho ma? |     |
+|  p41    | 俉個爹娘好嗎 | Are your father and mother well? | Ng-go tia-nyiang hao ma? |     |
+|  p41    | 飯還嘸𠺶煮熟嗎 | Is the rice not yet cooked? | Væn wa m̆-neh ts-joh ma? |     |
+|  p41    | 俉看我怕俉嗎 | Do you think I am afraid of you? | Ng kʽen ngô pʽô ng ma? |     |
+|  p41    | 葛星銀子彀兌嗎 | Is this silver sufficient? | Keh-sing nying-ts keo-de ma? |     |
+|  p41    | 說謊還弗算罪嗎 | Is not lying to be considered a sin? | Shih-hwông wa feh-sön ze ma? |     |
+|  p41    | 俉弗是張先生箇兄弟嗎 | Are you not Mr. Chang's younger brother? | Ng feh z Tsiang sin-sang-go hyüong-di ma? |     |
+|  p41    | 先生飯吃過嗎答已經吃過兌 | Have you eaten? Ans. I have already eaten. | Sin-sang væn kyʽüoh-ko ma? (Teh.) Yi-kying kyʽüoh-do-de. |     |
+| p41     | 俉弗會解說葛個字嗎 | Can you not explain this character? | Ng feh-we ka-shih keh-go z ma? |     |
+|  p42   | 巳經撥俉俉還來要嗎 | Having given you, do you still come and ask (for more)? | Yi-kying peh ng, ng wa læ iao ma? |     |
+| p42    | 俉還敢話嘸𠺶欠我葛個銅錢嗎 | Do you even dare to say that you do not owe me this money? | Ng wa ken wô m̆-neh kyʽin ngô keh-go dong-din ma? |     |
+|   p42  | 從北京來個信，俉弗曉得嗎 | Do you not know that a letter has come from Peking? | Dzong Poh-kying læ-go sing, ng feh hyiao-teh ma? |     |
+|   p42  | 已經賠拉弗是俉還要告嗎 |     | Yi-kying be-leh feh-z, ng wa iao kao ma? |     |
+|  p42   |     | If your money is insufficient, why not borrow a little of your employer's? | Ng-go dong-din feh-keo, feh-hao hyiang Tong-kô tsia ih-ngæn ma? (Tong-kô ziu-z Lao-pan.) |     |
+| p42    | 俉讀拉四年書，還弗曉得葛個字嗎 | Have you gone four years to school and yet do not know this character? | Ng doh-leh s-nyin shü, wa feh-hyiao-teh keh-go z ma? |     |
+|  p42   | 其還嘸𠺶去嗎，答，其打算明朝去 | Has he not yet gone? Ans. He proposes to go to-morrow. | Gyi wa m̆-neh kyʽi ma? (Teh.) Gyi tang-sön ming-tsiao kyʽi. |     |
+| p42    | 人客已經吃飽兌嗎 | Have the guests already finished eating (eaten to the full)? | Nying-kʽeh yi-kying kyʽüoh-pao-de ma? |     |
+|  p42   | 張老爺弗來屋裏俉弗曉得嗎 | Do you not know that Mr. Chang is not at home? | Tsiang lao-yia feh læ oh-li, ng feh hyiao-teh ma? |     |
+|  p42   | 其嘸𠺶親眼看見，還敢是介講嗎 | If he had not seen with his own eyes, would he venture to speak thus? | Gyi m̆-neh tsʽing-ngæn kʽen-kyin, wa ken z-ka kông ma? |     |
+|  p42   | 先生弗大好過嗎，答，是個我有頭痛 | Are you not well. Ans. No, my head aches. | Sin-sang feh-dza hao-ko ma? (Teh.) Z-go, ngô yiu deo-tʽong. |     |
+
+#### Lesson IX. 第九課 Di IX Kʽo.
+
+| 頁碼  | 漢字  | 英文  | 羅馬字 | 備注  |
+| --- | --- | --- | --- | --- |
+| p43    | 請先生坐來塘頭 | Will you please sit here? | Tsʽing sin-sang zo læ dông-deo. |     |
+|  p43   | 塘頭俉嘸告事幹 | There's nothing here that concerns you. | Dông-deo ng m̆-kao z-ken. |     |
+|   p43  | 俉拉葛頭年成好弗 | Is it a good year with you? | Ng-lah keh-deo nyin-dzing hao feh? |     |
+| p43    | 塘頭是個規矩地方 | This is an orderly place. | Dông-deo z-go kwe-kyü di-fông. |     |
+|   p43  | 葛頭嘸𠺶火爐 | There is no stove. | Keh-deo m̆-neh ho-lu. |     |
+|  p43   | 其弗屯來塘頭 | He does not live here. | Gyi feh deng læ dông-deo. |     |
+|  p43   | 俉拉弗要來塘頭講說話 | You must not talk here. | Ng-lah feh-iao læ dông-deo kông shih-wô. |     |
+|  p43   | 來葛頭弗好講閑話 | It's not proper to gossip there. | Læ keh-deo feh-hao kông ʽæn-wô. |     |
+|  p43   | 塘頭熱，葛頭冷 | It is hot here and cold there. | Dông-deo nyih, keh-deo lang. |     |
+|  p43   | 塘頭閙熱，葛頭冷靜 | It is bustling here and quiet there. | Dông-deo nao-nyih, keh-deo lang-zing. |     |
+|   p43  | 俉葛星傢伙好放來塘頭 | These tools of yours you may put here. | Ng keh-sing kô-ho, hao fông læ dông-deo. |     |
+| p43    | 塘頭個木匠嘸𠺶好手藝 | The carpenters of this place are not skillful. | Dông-deo go moh-ziang, m̆-neh hao siu-nyi. |     |
+|  p43   | 塘頭是住家，弗是禮拜堂 | This is a dwelling house; not a chapel (or a preaching hall). | Dông-deo z djü-kô, feh-z li-pa-dông. |     |
+| p43    | 下半日先生好來塘頭寫字 | You may write here this afternoon. | ʽÔ-pun-nyih sin-sang hao læ dông-deo sia z. |     |
+|  p43   | 塘頭個生意大葛頭個生意小 | The business here is large; there it is small. | Dông-deo-go ma-ma do, keh-deo-go ma-ma siao (ʽoh-tsia sang-i). |     |
+|  p43   | 木匠個傢伙，弗來塘頭 | The carpenter's tools are not here. | Moh-ziang go kô-ho, feh læ dông-deo. |     |
+|  p44   | 其頂怕塘頭幽，葛頭躲 | He was afraid and hid himself here and there. | Gyi ting pʽô, dông-deo iu, keh-deo to. |     |
+| p44    | 塘頭個說話，比葛頭個說話好講 | The language here is easier to speak than the language there. | Dông-deo go shih-wô, pi keh-deo shih-wô hao kông. |     |
+|  p44   | 俉拉葛頭個規矩，比阿拉塘頭好 | Your customs there are better than ours here. | Ng-lah keh-deo go kwe-kyü, pi ah-lah dông-deo hao. |     |
+|  p44   | 木匠司務來葛頭嗎，答，我嘸𠺶看見 | Is the carpenter there? Ans. I have not seen him. | Moh-ziang s-vu læ keh-deo ma? (Teh.) Ngô m̆-neh kʽen-kyin. |     |
+|  p44   | 其是來塘頭，還是來葛頭，我一眼弗曉得 | Whether he is here or whether he is there, I have not the least idea. | Gyi z læ dông-deo, wa-z læ keh-deo, ngô ih-ngæn feh-hyiao-teh. |     |
+|  p44   | 我巳經尋徧兌實在弗曉得其放來曷裏 | I have already searched everywhere, I have really no idea where he put it. | Ngô yi-kying zing-pin-de, jih-dzæ feh-hyiao-teh gyi fông læ ah-li. |     |
