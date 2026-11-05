@@ -824,3 +824,28 @@
 | p39 | 花園裏個花實在好看 | The flowers in the yard are truly beautiful. | Hwô-yün-li go hwô jih-dzæ hao-kʽen. |     |
 | p39 | 其拉兩個來書房裏看書 | They two are in the school room studying. | Gyi-lah liang-go læ shü-vông-li kʽen shü. |     |
 | p39 | 李先生個兒子來西門外做買賣 | Mr. Li's son is doing business outside the west gate. | Li sin-sang-go ng-ts, læ si-meng-nga tso ma-ma. |     |
+| p39 | 張先生個錢店已經倒兌 | Mr. Chang's bank is already bankrupt. | Tsiang sin-sang go dzin-tin yi-kying tao-de. |     |
+|  p39   | 我來街上買拉三斤棉花 | I bought three catties of cotton (or, cotton wool) on the street. | Ngô læ ka-zông ma-lah sæn-kying min-hwô. |     |
+| p39    | 我飯已經吃過兌 | I have already eaten. | Ngô væn yi-kying kyʽüoh-ko-de. |     |
+|  p39   | 大老爺已經去兌 | The Prefect has already gone. | Do-lao-yia yi-kying kyʽi-de. |     |
+|  p39   | 其個事幹已經講明白兌 | His business is already satisfactorily settled. | Gyi-go z-ken yi-kying kông ming-bah-de. |     |
+| p40 | 我已經等拉三日 | I have already waited three days. | Ngô yi-kying teng-leh sæn-nyih. |     |
+|   p40  | 丁先生個阿娘已經死兌 | Mr. Ting's mother is already dead. | Ting sin-sang-go ah-nyiang yi-kying si-de. |     |
+|   p40  | 其來城裏屯拉許多日子 | He lived in the city a long time. | Gyi læ dzing-li deng-leh hyü-to nyih-ts. |     |
+|   p40  | 嘸告法子事幹已經弄掉兌 | There is no help for it; the business is already ruined. | M̆-kao fah-ts, z-ken yi-kying long-diao-de. |     |
+|   p40  | 其拉個買賣蝕本兌 | They have done a losing business. | Gyi-lah-go ma-ma zih-peng-de. |     |
+|  p40   | 張先生個銅錢已經化乾淨兌 | Mr. Chang's money is already all spent. | Tsiang sin-sang-go dong-din yi-kying hwo (or long) ken-zing-de. |     |
+|   p40  | 其做拉一年生意賺一百五十兩銀子 | He did business one year and cleared one hundred and fifty tæls. | Gyi tso lah ih-nyin sang-i, dzen ih-pah ng-jih-liang nying-ts. |     |
+|   p40  | 生活做好兌俉好來話向我道 | When you have finished your work, come and tell me. | Sang-weh tso hao-de, ng hao læ wô-hyiang-ngô-dao. |     |
+|  p40   | 我已經吃拉殼兌 | I have already eaten enough. | Ngô yi-kying kyʽüoh-lah keo-de. |     |
+|  p40   | 葛個字我忘記兌 | I have forgotten this character. | Keh-go z, ngô mông-kyi-de. |     |
+|  p40   | 其來鄉下屯拉一年 | He lived in the country a year. | Gyi læ hyiang-ô deng-lah ih-nyin. |     |
+|  p40   | 葛一課阿拉已經讀熟兌 | This lesson we have already well learned. | Keh ih-kʽo, ah-lah yi-kying doh-joh-de. |     |
+|  p40   | 先生已經放學兌 | The teacher has already dismissed school. | Sin-sang yi-kying fōng-ʽoh-de. |     |
+|   p40  | 時候已經過兌先生還嘸來 | It is already past the time, and the teacher has not yet come. | Z-ʽeo yi-kying ko-de, sin-sang wa m̆-teh læ. |     |
+|  p40   | 葛星說話阿拉已經學拉兩日 | We have already been learning these sentences for two days. | Keh-sing shih-wô, ah-lah yi-kying ʽoh-leh liang-nyih. |     |
+|   p40  | 我五點半到屋裏 | I reached home at five and a half o'clock. | Ngô ng-tin-pun tao oh-li. |     |
+|     | 其巳經寫拉三點鐘工夫，還嘸𠺶寫完 | He has already been writing three hours, and has not yet finished. | Gyi yi-kying sia-leh sæn-tin-cong kong-fu, wa m̆-neh sia-wun. |     |
+|     | 等其來好請到客房裏坐一晌 | When he comes you may invite him into the parlor to sit a while. | Teng gyi læ, hao tsʽing tao kʽeh-vông-li zo-ih-zông. |     |
+|     | 葛個火俉用小心，嘸惱燒掉房子 | You should be careful of the fire and not burn the home. | Keh-go ho ng yüong siao-sing, m̆-nao siao-diao vông-ts. |     |
+|     | 其個小人巳經弗上學兌 | His boy has already quitted school. | Gyi-go siao-nying yi-kying feh zông-ʽoh-de. |     |
